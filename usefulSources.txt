@@ -1,0 +1,4 @@
+https://www.xilinx.com/support/documentation/sw_manuals/xilinx2014_4/ug958-vivado-sysgen-ref.pdf
+http://bwrcs.eecs.berkeley.edu/Classes/cs152/handouts/Tutorials_book.pdf
+https://www.xilinx.com/support/documentation/sw_manuals/xilinx2018_3/ug949-vivado-design-methodology.pdf
+https://www.utdallas.edu/~akshay.sridharan/index_files/Page4933.htm
