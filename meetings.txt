@@ -14,3 +14,42 @@ goals: -xilinx tutorials- find useful ones
 goals: instructables sequencer tutorial 
 - make nand IP from sysgen for vivado
 - share github docs
+
+2/22/19-
+goals: translate seq program to basys board
+-continue custom IP work in vivado
+-upload more to github
+-implement FFT
+
+3/8/19-
+-reviewed what was uploaded to github
+-reviewed sequencer program
+-Goals: Try more music programs
+-continue paper, summarize experiments
+
+3/15/19- 
+-discussed academic showcase
+-discussed wavetables and MIDI
+goals: sign up for showcase
+-consider presentation layout and a demo
+
+3/22/19-
+-planned for academic showcase
+-discussed clock division synths
+goals:
+-Finish outlining presentation
+-troubleshoot SDK
+-continue paper
+
+4/5/19-
+-Reviewed pdf file and presentation
+Goals: -Explore PWM demo
+-make demo for presentation
+-start writing more about computer architecture!
+-get some pictures, lots of pictures
+
+4/12/19-
+-reviewed demo program, pictures, computer architecture 
+Goals: Finalize slides & demo
+-continue work on paper
+-highligted things on proposal
